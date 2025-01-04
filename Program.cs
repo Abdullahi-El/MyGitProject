@@ -7,7 +7,7 @@ class Program
         // Kommentar: Här ska ny funktionalitet läggas till
         Console.WriteLine("Hej, världen!");
         
-        // TODO: Implementera en ny funktion för att räkna till 10
+        // At göra: Implementera en ny funktion för att räkna till 10
         RäknaTillTio(); // Kalla på funktionen som räknar till 10
     }
 
